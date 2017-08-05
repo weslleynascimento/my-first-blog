@@ -25,7 +25,7 @@ SECRET_KEY = 'j(55q%bn!htcb%1pvichy62g!^zgg&18)78qc)relptwb$1@c3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['lycos.pythonanywhere.com', 'localhost', '127.0.0.1']
 
 
 # Application definition

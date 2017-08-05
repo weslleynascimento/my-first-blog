@@ -1,0 +1,6 @@
+https://tutorial.djangogirls.org/pt/django_start_project/
+
+Ativar virtualenv:
+myvenv\Scripts\activate
+
+O "Admin" está com usuário:admin e senha:teste tanto local quando no pythonanywhere
